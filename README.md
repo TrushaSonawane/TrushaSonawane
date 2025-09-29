@@ -76,11 +76,6 @@ I'm a **Master of Analytics student** at Northeastern University with a passion 
 - Engineered digital modules for national e-Procurement portal processing 500+ daily transactions
 - Optimized SQL queries improving system response time by 20%
 
-## 📈 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TrushaSonawane&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrushaSonawane&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 ## 🎓 Education & Certifications
 
